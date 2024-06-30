@@ -3,7 +3,7 @@
 
 运行环境是在linux环境下
 
-使用前，需要安装第三方库如boost,redis,nginx,mysql等
+使用前，需要安装第三方库如boost,muduo,redis,nginx,mysql等
 
 在./ChatServer318文件下 
 运行指令 cmake. 然后再运行make 
